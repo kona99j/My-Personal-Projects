@@ -1,2 +1,1 @@
-# My-Personal-Projects
-These are my DSML projects
+# Ride Sharing Price Prediction Machine Learning project
