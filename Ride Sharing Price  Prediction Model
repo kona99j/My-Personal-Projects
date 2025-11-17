@@ -1,0 +1,13 @@
+Ride Sharing Price Prediction — Machine Learning Project
+
+Cleaned and analyzed a large ride-sharing dataset, performing exploratory data analysis (EDA) to identify price patterns, outliers, correlations, and peak demand periods.
+
+Engineered features such as average speed (mph), encoded categorical variables (weather, vehicle type, locations), and scaled numerical features to improve model performance.
+
+Built and compared multiple regression models, including Linear Regression, Decision Tree, Random Forest, and Voting Regressor to predict ride prices.
+
+Optimized model performance using feature selection, hyperparameter tuning, and evaluation metrics such as RMSE, MAE, and R².
+
+Achieved strong predictive performance using ensemble models, demonstrating improved accuracy over baseline models.
+
+Visualized relationships between price, distance, duration, hour of day, weather, and location using Matplotlib/Seaborn to extract actionable insights.
